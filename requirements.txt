@@ -4,7 +4,6 @@ pandas==0.20.3
 sklearn
 scipy
 fiona
-rasterio
 folium
 cesiumpy
 pysal
