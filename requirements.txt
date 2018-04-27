@@ -4,3 +4,10 @@ pandas==0.20.3
 sklearn
 scipy
 
+gdal
+fiona
+rasterio
+folium
+cesiumpy
+pysal
+
