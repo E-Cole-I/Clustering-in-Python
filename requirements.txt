@@ -7,6 +7,5 @@ fiona
 folium
 cesiumpy
 pysal
-gdal
-rasterio
+gdal>=1.9.0
 
