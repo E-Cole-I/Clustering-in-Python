@@ -7,4 +7,6 @@ fiona
 folium
 cesiumpy
 pysal
+gdal
+rasterio
 
