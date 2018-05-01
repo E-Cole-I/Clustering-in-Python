@@ -1,4 +1,4 @@
-# Clustering-in-Python :metal:
+# Clustering-in-Python :snake: :metal: 
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/E-Cole-I/Clustering-in-Python/master)    Use this to launch the Docker Environment!  :octocat:   
 
